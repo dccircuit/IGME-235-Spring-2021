@@ -8,7 +8,7 @@ Same as previous exercises:  Figure out how to meet provided goals.  Ask for hel
 3. Correct any errors.
 
 ## If you have no errors of your own:
-- Validate this code:  (the image referred to is [here](mirror.gif), if you want to try to build/display it in a browser) -- Good luck, this code is a mess.
+- You could try validating this code:  (the image referred to is [here](mirror.gif), if you want to try to build/display it in a browser) -- Good luck, this code is a mess.  (this is an optional part of the exercise... you can move on to the next exercise whenever you want).
  
 ```
 <!DOCTYPE html5>
