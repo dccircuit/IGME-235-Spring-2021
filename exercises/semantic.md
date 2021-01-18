@@ -12,7 +12,7 @@ Don't forget to ask for help if needed.  Don't spend a lot of time (especially i
 
     - Turn the Publishing Information and Game Genre Information into two separate Unordered Lists
 
-    - Add a blockquote for the review excerpt.
+    - If you didn't already, add a blockquote for the review excerpt.
 
 1. Confirm that all of the above have worked (they all have a visible effect).
 
