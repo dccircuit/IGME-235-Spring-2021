@@ -25,10 +25,10 @@ Don't forget to ask for help if needed.  Don't spend a lot of time (especially i
 1. Add inline elements for additional formatting (your choice as to where they might be appropriate):
     - Italics (for emphasis), 
     - Bold (for strong meaning), 
-    - Mark an acronym so that it's meaning appears on hover.  
-    - Add a line break.
+    - Mark an acronym so that it's meaning appears on hover.  (Did you know that Namco stands for "Nakamura Manufacturing Company"?)
+    - Add more line breaks.
 
-1. Add a `<div>` with an `id` attribute around the "source" info at the very bottom of the page.
+1. Important: Add a `<div>` with an `id` attribute around the "source" info at the very bottom of the page.
     - We won't apply any styling to it just yet, we're just making it so that we can link to it from the next exercise.
 
 
