@@ -1,6 +1,6 @@
 # Exercise: Structural and Semantic HTML 
 
-Don't forget to ask for help if needed.  Don't spend a lot of time (especially in the in-person lab) being stuck.
+The is the last lab exercise for this week.  Finish strong!  Don't forget to ask for help if needed.  Don't spend a lot of time (especially in the in-person lab) being stuck.
 
 ## Do as much of the following as possible:
 
@@ -29,8 +29,10 @@ Don't forget to ask for help if needed.  Don't spend a lot of time (especially i
     - Add more line breaks.
 
 1. Important: Add a `<div>` with an `id` attribute around the "source" info at the very bottom of the page.
-    - We won't apply any styling to it just yet, we're just making it so that we can link to it from the next exercise.
+    - We won't apply any styling to it just yet, we're just making it so that we can links to it in next week's lab exercises.
 
 
-## Continue on to add links...
+## Okay, that's enough for this week. Take the whole game directory so far and put it in your 235 directory on Banjo.
+  - Want to show it off, post a link to it in your section-specific channel on Slack!
+  - If you're online/flex, your instructor might require it. :-)
 
