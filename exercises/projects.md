@@ -77,6 +77,26 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
+#### Recent Games - Fall 2020
+- Blast Run - https://people.rit.edu/mhc4466/235/project3/ (Pixi Game)
+- Caves & Creatures - https://people.rit.edu/ccc9775/235/project3/ (DOM Game)
+- The Floor is Lava - https://people.rit.edu/stb6897/235/project3/ (Pixi Game)
+- Gwent Card Creator - https://people.rit.edu/cdb7951/235/project3/index.html (DOM Interactive Experience)
+- Tennis: Hard Mode - https://people.rit.edu/ejb3432/235/project3/ (Pixi with DOM scoring)
+- The Urban Underdog - https://people.rit.edu/nmb9745/235/project3/ (Pixi with DOM input field - way beyond expectations).
+- Terraformer! - https://people.rit.edu/~jtg1984/235/project3 (DOM Game)
+- Racing Mania! - https://people.rit.edu/jdh5563/235/project3/ (Pixi Game)
+- Race Home - https://people.rit.edu/kcj7751/235/project3/index.html (Pixi Game)
+- Pew-Pew-Pew! - https://people.rit.edu/srk7473/235/Project3/index.html (Pixi Game)
+- Zombie Patrol - https://people.rit.edu/zk6658/235/project3/game (Pixi Game)
+- Graviturgy - https://people.rit.edu/dek6613/235/project3/graviturgy.html (Pixi Game)
+- Pixel Arena - https://people.rit.edu/vl5604/235/project3/ (Pixi Game)
+- Ibex Idle - https://people.rit.edu/jel6623/235/project3/ (Pixi Game)
+- Audioweaver - https://people.rit.edu/rgm7620/235/project3/game.html (Pixi Game)
+- Night Flight - https://people.rit.edu/msm6982/235/project3/ (Pixi Game)
+- Zen Tank - https://people.rit.edu/kwl2789/235/ProjectThree/game (Pixi Game)
+
+
 #### Recent Games - Spring 2020
 - Pond King - https://people.rit.edu/mdb4220/235/Project%203/index.html
 - Mine Sweeper - https://people.rit.edu/dmd7488/235/Project3/
