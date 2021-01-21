@@ -100,7 +100,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Wall Jump Frenzy - https://people.rit.edu/nsw7227/235/project3/ (Pixi Game)
 - TileTracer - https://people.rit.edu/zbw5667/235/project3/ (Pixi Game)
 - Enemies InBOUND - https://people.rit.edu/jmw2423/235/project3/game.html (Pixi Game)
-- Trench Game - https://people.rit.edu/wno9619/235/project3/game.html (Pixi Game)
+- Trench Game - https://people.rit.edu/wno9619/235/project3/ (Pixi Game)
 - O.J.C. (Operation Jumpy Circle) - https://people.rit.edu/njs3685/235/project3/ (Pixi Game)
 - Space Invaders (The Bizarro Dimension) - https://people.rit.edu/cms5882/235/project3/ (Pixi Game) 
 - Dodger Car - https://people.rit.edu/acz1391/235/project3/game.html (Pixi Game)
