@@ -95,9 +95,18 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Audioweaver - https://people.rit.edu/rgm7620/235/project3/game.html (Pixi Game)
 - Night Flight - https://people.rit.edu/msm6982/235/project3/ (Pixi Game)
 - Zen Tank - https://people.rit.edu/kwl2789/235/ProjectThree/game (Pixi Game)
+- Gravity Runner - https://people.rit.edu/dps2249/235/project3/game.html (Pixi Game)
+- Tanks! - https://people.rit.edu/tw5417/235/project3/game.html (Pixi Game) 
+- Wall Jump Frenzy - https://people.rit.edu/nsw7227/235/project3/ (Pixi Game)
+- TileTracer - https://people.rit.edu/zbw5667/235/project3/ (Pixi Game)
+- Enemies InBOUND - https://people.rit.edu/jmw2423/235/project3/game.html (Pixi Game)
+- Trench Game - https://people.rit.edu/wno9619/235/project3/game.html (Pixi Game)
+- O.J.C. (Operation Jumpy Circle) - https://people.rit.edu/njs3685/235/project3/ (Pixi Game)
+- Space Invaders (The Bizarro Dimension) - https://people.rit.edu/cms5882/235/project3/ (Pixi Game) 
+- Dodger Car - https://people.rit.edu/acz1391/235/project3/game.html (Pixi Game)
 
 
-#### Recent Games - Spring 2020
+#### Fairly Recent Games - Spring 2020
 - Pond King - https://people.rit.edu/mdb4220/235/Project%203/index.html
 - Mine Sweeper - https://people.rit.edu/dmd7488/235/Project3/
 - Alpine Survival - https://people.rit.edu/nfb1799/235/project3/index.html
@@ -105,7 +114,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Alien Cereal - https://people.rit.edu/lep2738/235/project-3/game/game.html
 - Brick Breaker - https://people.rit.edu/kst4052/235/project-3-bricks/game.html
 
-#### Recent Games - Fall 2019
+#### Less Recent Games - Fall 2019
 - Temple Tiles - https://people.rit.edu/rdt7867/235/project3/
 - &mu;Karts - https://people.rit.edu/afb3535/235/Project1/pages/project.html
 - Cryptbreaker - https://people.rit.edu/jtb6154/235/project3/
