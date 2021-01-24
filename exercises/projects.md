@@ -9,6 +9,36 @@ For this exercise, we'd like you to explore some sample projects from the last f
 ### Category 1: Portfolios (We will start ours for Project 1 and finish them later in the semester)
 
 #### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
+- https://people.rit.edu/acz1391/235/project1
+- https://people.rit.edu/tjs9702/235/portfolio
+- https://people.rit.edu/zbw5667/235/project1
+- https://people.rit.edu/ssw1882/235/project1/
+- https://people.rit.edu/njs3685/
+- https://people.rit.edu/jmw2423/235/project1
+- https://people.rit.edu/ces5666/235/project1
+- https://people.rit.edu/wno9619/235/project1
+- https://people.rit.edu/mhc4466/235/project1/
+- https://people.rit.edu/nmb9745/235/project1
+- https://people.rit.edu/nsw7227/
+- https://people.rit.edu/axt6773/235/project1/
+- https://people.rit.edu/cam8030/235/project1/
+- https://people.rit.edu/jts4605/portfolio/
+- https://people.rit.edu/tmm8046/235/project1
+- https://people.rit.edu/csv6423/235/project1/
+- https://people.rit.edu/jtg1984/
+- https://people.rit.edu/jdh5563/
+- https://people.rit.edu/kcj7751/235/project1/
+- https://people.rit.edu/msm6982/235/project1/
+- https://people.rit.edu/cms5882/235/project1/
+
+
+
+
+#### Previous Demo Portfolios
+- https://www.katiepustolski.com/
+- http://brianemling.com/
+- https://dougwatro.com/
+- http://barringtoncampbell.com/
 - https://people.rit.edu/mjc9536/235/project1/
 - https://people.rit.edu/dmd7488/235/Project1/
 - https://people.rit.edu/dg1229/235/project1/
@@ -20,12 +50,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/jf7689/235/portfolio/
 - https://people.rit.edu/lth1092/235/Project1/
 - https://people.rit.edu/lep2738/portfolio/
-
-#### Previous Demo Portfolios
-- https://www.katiepustolski.com/
-- http://brianemling.com/
-- https://dougwatro.com/
-- http://barringtoncampbell.com/
 - https://people.rit.edu/ajr6974/230/portfolio/
 - https://people.rit.edu/ncs2738/230/portfolio/
 - https://people.rit.edu/jcs1738/230/portfolio/
@@ -45,6 +69,8 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/nzl6723/235/portfolio/
 - https://people.rit.edu/nkz4713/235/portfolio/
 - https://people.rit.edu/vae3742/235/portfolio/
+
+
 
 ### Category 2: Web Service Applications (This will be our Project 2)
 
