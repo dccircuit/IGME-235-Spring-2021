@@ -30,9 +30,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/msm6982/235/project1/
 - https://people.rit.edu/cms5882/235/project1/
 
-
-
-
 #### Previous Demo Portfolios
 - https://www.katiepustolski.com/
 - http://brianemling.com/
@@ -68,9 +65,23 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/nkz4713/235/portfolio/
 - https://people.rit.edu/vae3742/235/portfolio/
 
-
-
 ### Category 2: Web Service Applications (This will be our Project 2)
+
+#### Fall 2020 Project 2s
+- https://people.rit.edu/nsw7227/235/project2/
+- https://people.rit.edu/~jtg1984/235/project2/
+- https://people.rit.edu/cam8030/235/project2/
+- https://people.rit.edu/cdb7951/235/project2/
+- https://people.rit.edu/zbw5667/235/project2/
+- https://people.rit.edu/aam6039/235/project2/
+- https://people.rit.edu/bjk4726/235/project2/
+- https://people.rit.edu/njs3685/235/project2/
+- https://people.rit.edu/zk6658/235/project2/
+- https://people.rit.edu/msm6982/235/project2/
+- https://people.rit.edu/acz1391/235/project2/
+- https://people.rit.edu/ces5666/235/project2/
+- https://people.rit.edu/dek6613/235/pokemon-generator/
+- https://people.rit.edu/nmb9745/235/project2/
 
 #### Spring 2020 Project 2s
 - https://people.rit.edu/lth1092/235/Project2/
@@ -82,11 +93,9 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/ajr6974/230/project2/
 - https://people.rit.edu/rls2819/230/project2/index.html
 - https://people.rit.edu/jcs1738/230/project2/
-- https://people.rit.edu/ss1594/230/project2/
 - https://people.rit.edu/ggc2903/230/project2/
 - https://people.rit.edu/iod6239/230/project2/
-- https://people.rit.edu/afb3535/235/Project2/
-- https://people.rit.edu/mab7367/235/project2/
+- https://people.rit.edu/afb3535/235/Project2/ here
 - https://people.rit.edu/txa7348/235/project2/
 - https://people.rit.edu/ald1289/235/rating-finder/ratingFinder.html
 - https://people.rit.edu/mes3585/235/project2/
@@ -96,7 +105,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/rw7363/235/project2/
 - https://people.rit.edu/nzl6723/235/project2/gif-finder.html
 - https://people.rit.edu/daj6462/235/project2/
-- https://people.rit.edu/kct2548/235/pokemon_card_finder/card-finder.html
 
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
