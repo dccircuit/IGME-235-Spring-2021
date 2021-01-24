@@ -18,7 +18,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/ces5666/235/project1
 - https://people.rit.edu/wno9619/235/project1
 - https://people.rit.edu/mhc4466/235/project1/
-- https://people.rit.edu/nmb9745/235/project1
 - https://people.rit.edu/nsw7227/
 - https://people.rit.edu/axt6773/235/project1/
 - https://people.rit.edu/cam8030/235/project1/
@@ -38,7 +37,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://www.katiepustolski.com/
 - http://brianemling.com/
 - https://dougwatro.com/
-- http://barringtoncampbell.com/
 - https://people.rit.edu/mjc9536/235/project1/
 - https://people.rit.edu/dmd7488/235/Project1/
 - https://people.rit.edu/dg1229/235/project1/
