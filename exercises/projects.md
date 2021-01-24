@@ -95,7 +95,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/jcs1738/230/project2/
 - https://people.rit.edu/ggc2903/230/project2/
 - https://people.rit.edu/iod6239/230/project2/
-- https://people.rit.edu/afb3535/235/Project2/ here
+- https://people.rit.edu/afb3535/235/Project2/
 - https://people.rit.edu/txa7348/235/project2/
 - https://people.rit.edu/ald1289/235/rating-finder/ratingFinder.html
 - https://people.rit.edu/mes3585/235/project2/
