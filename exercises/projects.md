@@ -1,6 +1,6 @@
 # Exercise: Browse Past Projects 
 
-For this exercise, we'd like you to explore some sample projects from the last few semesters. The project names and numbers have changed a bit over time, so pay attention to the short descriptions at the top of each section to understand which project you're looking at.  If you find a project that is especially interesting or if you have questions about expectations for this semester, feel free to mention it in the "#exercise-discussion" Slack channel.
+For this exercise, we'd like you to explore some sample projects from the last few semesters. The project names and numbers have changed a bit over time, so pay attention to the short descriptions at the top of each section to understand which project you're looking at.  If you find a project that is especially interesting or if you have questions about expectations for this semester, feel free to mention it in the "#exercise-pastproj" Slack channel.
 
 ## Do the following:
 - Check out the links below and visit at least one project in each category.
@@ -184,6 +184,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
 
 ## When you get done:
-- There is no specific submission for this exercise, you do not need to save or submit anything, but you should feel fee to use the "#exercise-discussions" Slack channel to share anything interesting.
+- There is no specific submission for this exercise, you do not need to save or submit anything, but you should feel fee to use the "#exercise-pastproj" Slack channel to share anything interesting.
 - Start making some notes about project features, game ideas, portfolio elements that you might want to incorporate into your own project.  This is one of the to do items in your Week 1 Checklist in myCourses.
     
