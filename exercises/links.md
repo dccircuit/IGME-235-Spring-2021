@@ -32,9 +32,7 @@ This is the last lab exercise for this week. Finish strong!  It's worth doing th
 - Add a "thumbnail" version of the big image to the index.html so that when it's clicked on, it goes to the big image page. 
 - Add additional big images that represent the game.
 
-## Okay, that's enough for this week.  Take the whole **game** directory so far and put it in your 235 directory on Banjo.  
+## Continue on to the next exercise. 
 
-- Want to show it off, post a link to it in your section-specific channel on Slack!
-- If you're online/flex, your instructor might require it.  :-)
 
 
