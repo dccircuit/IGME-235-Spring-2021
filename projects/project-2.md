@@ -45,16 +45,13 @@ For this project you are creating a JavaScript driven Web application that utili
     - Jikan Unofficial MyAnimeList API*: https://jikan.docs.apiary.io/
     - The Amiibo API*: http://www.amiiboapi.com
         - *Starters for the above 3 APIs can be found in the [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
-    - REST Countries: https://restcountries.eu/
-    - TheMealDB API: https://www.themealdb.com/api.php  
-    **New to the list this Semester:**
-    - Ghibli Movie API: https://ghibliapi.herokuapp.com/
+    - REST Countries: https://restcountries.eu/  
+    **Recent additions to the list:**
     - Pokémon TCG API: https://docs.pokemontcg.io/
     - Pokemon API: https://pokeapi.co/docs/v2
     - Rick and Morty API (REST version): https://rickandmortyapi.com/documentation
-    - Magic the Gathering API: https://docs.magicthegathering.io/
+    - Scryfall Magic: The Gathering Search: https://scryfall.com/docs/api
     - Open Trivia DB API: https://opentdb.com/api_config.php
-    - ~~Discography API: https://www.discogs.com/developers/~~ See slack channel "#api-chat-discogs"
     - Mixcloud (This is a little more complicated): https://www.mixcloud.com/developers/
     
   - You can make pretty much any experience you like as long as it captures a user request, gets data from the API, and then presents it back in a way that is useful or fun, easy to understand, and fairly well organized. 
