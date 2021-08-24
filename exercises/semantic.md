@@ -29,7 +29,7 @@ The is the last lab exercise for this week.  Finish strong!  Don't forget to ask
     - Add more line breaks.
 
 1. Important: Add a `<div>` with an `id` attribute around the "source" info at the very bottom of the page.
-    - We won't apply any styling to it just yet, we're just making it so that we can links to it in next week's lab exercises.
+    - We won't apply any styling to it just yet, we're just making it so that we can link to it in next week's lab exercises.
 
 
 ## Okay, that's enough for this week. Take the whole game directory so far and put it in your 235 directory on Banjo.
